@@ -15,13 +15,13 @@
 
   - Fundamentos de Teste de Software
     - [Questão 1](1-fundamentos-teste.png)   
-      - [Ver resposta](1-fundamentos-teste-resposta.png)
+      - [Ver resposta](respostas/1-fundamentos-teste-resposta.png)
       
     - [Questão 2](1-fundamentos-teste2.png) 
-      - [Ver resposta](1-fundamentos-teste2-resposta.png)
+      - [Ver resposta](respostas/1-fundamentos-teste2-resposta.png)
       
     - [Questão 3](1-fundamentos-teste3.png)
-      - [Ver resposta](1-fundamentos-teste3-resposta.png)
+      - [Ver resposta](respostas/1-fundamentos-teste3-resposta.png)
 
   - [Fundamentos de Automação de Teste deSoftware](2-fundamentos-automacao.png)
-    - [Ver resposta](2-fundamentos-automacao-resposta.png)
+    - [Ver resposta](respostas/2-fundamentos-automacao-resposta.png)
