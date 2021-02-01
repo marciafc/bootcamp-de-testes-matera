@@ -11,6 +11,39 @@
   - [Selenium](https://github.com/marciafc/Selenium)
 
 
+## Material
+
+  - Fundamentos de Teste de Software
+
+  - Fundamentos de Automação de Testes de Software
+
+  - BDD
+
+  - Postman
+
+  - RestAssured
+
+  - Cucumber
+
+  - Selenium WebDriver  
+
+  - Carreira e Certificações
+
+Link para [acessar](material)  
+
+## Notas
+
+  - Como gerar token authorization de forma automatizada no Postman
+
+  - Plano de teste
+
+  - Syllabus CTFL
+
+  - Caso Tesla
+
+Link para [acessar](notas)    
+
+
 ## Quizzes
 
   - Fundamentos de Teste de Software
